@@ -24,7 +24,7 @@ of-the-art deepfake detectors against this emerging generation
 paradigm has become increasingly important.
 
 
-Current version of the code ----
+Current version of the code #########################
 
 Action-Conditioned I2V Deepfake Benchmark — Data Preparation
 
